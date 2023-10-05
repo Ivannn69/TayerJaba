@@ -24,6 +24,14 @@ function App() {
         >     
           X
         </button>
+        
+        <button 
+          onClick={()=>{
+            alert("Cuidadoo00oo0o0o0")
+          }}
+        >     
+          Y
+        </button>
       </div>
     </>
   );
